@@ -1,0 +1,7 @@
+{
+  "cloud_provider": "gcp",
+  "region": "us-central1",
+  "instance_type": "e2-standard-2",
+  "gcp_project": "assignment-3-rudra",
+  "gcp_bucket": "vm-migration-bucket-rudra"
+}
